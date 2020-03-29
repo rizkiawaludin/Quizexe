@@ -16,7 +16,7 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
     C:\Users\Ken-Tetzu\Downloads>cd Quizexe/dist
     C:\Users\Ken-Tetzu\Downloads\Quizexe\dist>
     ```
-* Setelah masuk ke directory/folder Quizexe. Jalankan program
+* Setelah itu masuk ke directory/folder Quizexe. Jalankan program
     ```
     C:\Users\Ken-Tetzu\Downloads\Quizexe\dist>quiz.exe
     ```
