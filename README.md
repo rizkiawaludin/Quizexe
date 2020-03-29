@@ -1,7 +1,5 @@
 ## About
-Quiz adalah game yang saya buat dengan bahasa pemrograman `Python` yang kemudian saya encrypt menjadi `.pyc` dengan tujuan untuk mengamankan source code dan tidak bisa di recode, game ini berbasis **CLI(Command Line Interface)**.
-
-Quizexe adalah versi dari Quiz yang di convert menggunakan `py2exe`(Berfungsi mengkonversi file berformat `.py` menjadi `.exe` agar bisa berjalan di Windows)
+Quizexe adalah versi dari Quiz yang di convert menggunakan `py2exe`(Berfungsi mengkonversi file berformat `.py` menjadi `.exe` agar bisa berjalan di Windows).
 
 Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang sedang menjalani _self-quarantine_. Agar tidak bosan dan semoga game ini bisa membuat jengkel dan menghibur teman-teman semua.
 
