@@ -7,17 +7,17 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
 
 ## Installation for Windows
 * Download  repositori ini dalam bentuk zip
-* Extract file `.zip` yang telah di download
-* Masuk ke folder Quizexe terlebih dahulu, dan extract file `build.zip`
+* Extract file `Quizexe-master.zip` yang telah di download
+* Masuk ke folder Quizexe-master terlebih dahulu, dan extract file `build.zip`
 * Setelah itu buka **Command Prompt** dan masuklah ke folder Quizexe yang telah di ekstrak
     > Dalam contoh ini, saya tidak memindahkan folder Quizexe kemanapun dan masih di folder Downloads
     ```
     C:\Users\Ken-Tetzu>cd Downloads
-    C:\Users\Ken-Tetzu\Downloads>cd Quizexe/dist
-    C:\Users\Ken-Tetzu\Downloads\Quizexe\dist>
+    C:\Users\Ken-Tetzu\Downloads>cd Quizexe-master/dist
+    C:\Users\Ken-Tetzu\Downloads\Quizexe-master\dist>
     ```
 * Setelah itu Jalankan program
     ```
-    C:\Users\Ken-Tetzu\Downloads\Quizexe\dist>quiz.exe
+    C:\Users\Ken-Tetzu\Downloads\Quizexe-master\dist>quiz.exe
     ```
 * Enjoy the game
