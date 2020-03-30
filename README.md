@@ -7,7 +7,7 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
 * Download  repositori ini dalam bentuk zip
 * Extract file `Quizexe-master.zip` yang telah di download
 * Masuk ke folder Quizexe-master terlebih dahulu, dan extract file `build.zip`
-* Setelah itu buka **Command Prompt** dan masuklah ke folder Quizexe-master yang telah di ekstrak
+* Setelah itu buka **Command Prompt** dan ubahlah directory ke Quizexe-master yang telah di ekstrak
     > Dalam contoh ini, saya tidak memindahkan folder Quizexe-master kemanapun dan masih di folder Downloads
     ```
     C:\Users\Ken-Tetzu>cd Downloads
